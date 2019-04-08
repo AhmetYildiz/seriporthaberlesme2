@@ -1,0 +1,18 @@
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_yazma\port_yazma\bin\Debug\port_yazma.exe.config
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_yazma\port_yazma\bin\Debug\port_yazma.exe
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_yazma\port_yazma\bin\Debug\port_yazma.pdb
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_yazma\port_yazma\obj\Debug\port_yazma.Form1.resources
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_yazma\port_yazma\obj\Debug\port_yazma.Properties.Resources.resources
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_yazma\port_yazma\obj\Debug\port_yazma.csproj.GenerateResource.Cache
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_yazma\port_yazma\obj\Debug\port_yazma.exe
+c:\users\ahmedoww\documents\visual studio 2015\Projects\port_yazma\port_yazma\obj\Debug\port_yazma.pdb
+C:\Users\Ahmedoww\Documents\Visual Studio 2015\Projects\port_yazma\port_yazma\obj\Debug\port_yazma.csprojResolveAssemblyReference.cache
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\bin\Debug\port_yazma.exe.config
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\obj\Debug\port_yazma.exe
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\obj\Debug\port_yazma.pdb
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\bin\Debug\port_yazma.exe
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\bin\Debug\port_yazma.pdb
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\obj\Debug\port_yazma.csprojResolveAssemblyReference.cache
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\obj\Debug\port_yazma.Form1.resources
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\obj\Debug\port_yazma.Properties.Resources.resources
+C:\Users\Ahmedoww\Desktop\port_yazma\port_yazma\obj\Debug\port_yazma.csproj.GenerateResource.Cache
